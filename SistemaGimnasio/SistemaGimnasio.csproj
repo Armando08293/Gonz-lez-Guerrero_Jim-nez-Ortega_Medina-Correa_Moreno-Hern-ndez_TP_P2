@@ -11,4 +11,8 @@
     <Folder Include="Servicios\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sistemaimnasio.Tests\SistemaGimnasio.Tests.csproj" />
+  </ItemGroup>
+
 </Project>
